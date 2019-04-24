@@ -1,4 +1,3 @@
-C:\Users\Owner\source\repos\Age in Days\Age in Days\obj\Debug\Age in Days.vbprojAssemblyReference.cache
 C:\Users\Owner\source\repos\Age in Days\Age in Days\obj\Debug\Age_in_Days.frmageindays.resources
 C:\Users\Owner\source\repos\Age in Days\Age in Days\obj\Debug\Age_in_Days.Resources.resources
 C:\Users\Owner\source\repos\Age in Days\Age in Days\obj\Debug\Age in Days.vbproj.GenerateResource.cache

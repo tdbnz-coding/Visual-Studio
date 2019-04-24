@@ -87,7 +87,7 @@ Partial Class frmageindays
         Me.MaximumSize = New System.Drawing.Size(333, 378)
         Me.MinimumSize = New System.Drawing.Size(333, 378)
         Me.Name = "frmageindays"
-        Me.Text = "Age in Days"
+        Me.Text = " "
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

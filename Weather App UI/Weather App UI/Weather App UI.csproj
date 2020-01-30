@@ -95,5 +95,29 @@
   <ItemGroup>
     <None Include="Resources\icons8-rain-cloud-96 %281%291.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-snow-storm-961.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sun-961.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-partly-cloudy-day-963.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maps-and-flags1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sun-962.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sun1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newspaper1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gallery1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

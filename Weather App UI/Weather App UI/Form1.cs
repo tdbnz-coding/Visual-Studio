@@ -61,5 +61,10 @@ namespace Weather_App_UI
         {
 
         }
+
+        private void Label9_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -16,5 +16,50 @@ namespace Weather_App_UI
         {
             InitializeComponent();
         }
+
+        private void PnlUp_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void PnlDown_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void PictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Button8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Button5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Button4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

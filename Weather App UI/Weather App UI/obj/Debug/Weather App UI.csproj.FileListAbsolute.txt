@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Github\tdbnz-coding\Visual-Studio\Weather App UI\Weather App UI\bin\Debug\Weather App UI.exe.config
+C:\Users\User\Documents\Github\tdbnz-coding\Visual-Studio\Weather App UI\Weather App UI\bin\Debug\Weather App UI.exe
+C:\Users\User\Documents\Github\tdbnz-coding\Visual-Studio\Weather App UI\Weather App UI\bin\Debug\Weather App UI.pdb
+C:\Users\User\Documents\Github\tdbnz-coding\Visual-Studio\Weather App UI\Weather App UI\obj\Debug\Weather App UI.csprojAssemblyReference.cache
+C:\Users\User\Documents\Github\tdbnz-coding\Visual-Studio\Weather App UI\Weather App UI\obj\Debug\Weather_App_UI.Form1.resources
+C:\Users\User\Documents\Github\tdbnz-coding\Visual-Studio\Weather App UI\Weather App UI\obj\Debug\Weather_App_UI.Properties.Resources.resources
+C:\Users\User\Documents\Github\tdbnz-coding\Visual-Studio\Weather App UI\Weather App UI\obj\Debug\Weather App UI.csproj.GenerateResource.cache
+C:\Users\User\Documents\Github\tdbnz-coding\Visual-Studio\Weather App UI\Weather App UI\obj\Debug\Weather App UI.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Github\tdbnz-coding\Visual-Studio\Weather App UI\Weather App UI\obj\Debug\Weather App UI.exe
+C:\Users\User\Documents\Github\tdbnz-coding\Visual-Studio\Weather App UI\Weather App UI\obj\Debug\Weather App UI.pdb
